@@ -17,9 +17,12 @@ Images of final product below:
 
 <img width="522" height="520" alt="image" src="https://github.com/user-attachments/assets/0b911261-9189-4f3d-8b59-d96d6945f042" />
 
+<img width="868" height="642" alt="image" src="https://github.com/user-attachments/assets/2014785a-a577-42bd-86e3-332736d85180" />
+
+
 CONTRIBUTORS:
-Hugo PIPER
-Kipp SUMMERS
-Amin SHEIKH
-Jahid EMON
-Dhari ALTHUNAYAN
+- Hugo PIPER
+- Kipp SUMMERS
+- Amin SHEIKH
+- Jahid EMON
+- Dhari ALTHUNAYAN
